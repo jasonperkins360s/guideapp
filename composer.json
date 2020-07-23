@@ -1,21 +1,21 @@
 {
-    "name": "subtitles/moana-online-free-full-download",
+    "name": "guideapp/cutting-method-and-processing-meats",
     "type": "project",
-    "description": "Free.Watch Isle of Dogs Online Full 720p & 1080p Bluray Movie",
-    "homepage": "https://github.com/nova-framework/bare-app",
+    "description": "In this article, we are going to discuss in detail the method of cutting and processing meat as discussed by the best butcher Brisbane.",
+    "homepage": "http://rocknrollbutcher.com.au/",
     "license": "MIT",
     "authors": [
         {
-            "name": "David Carr",
-            "email": "dave@daveismyname.com",
-            "homepage": "http://daveismyname.com",
+            "name": "Best Butcher",
+            "email": "info@rocknrollbutcher.com.au",
+            "homepage": "http://rocknrollbutcher.com.au/",
             "role": "Developer"
         }
     ],
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/nova-framework/system"
+            "url": "https://github.com/newappwork/guideapp"
         }
     ],
     "require": {
