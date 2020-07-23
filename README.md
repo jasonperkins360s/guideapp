@@ -2,6 +2,8 @@
 ## Overview
 Meat is a muscle that is made of fibers and they are held together by connective tissues like elastin and collagen. The connective tissue amount in the muscle or meat needs to be acknowledged before selecting the correct way to prepare the final product. In this article, we are going to discuss in detail the method of cutting and processing meat as discussed by the [best butcher](https://rocknrollbutcher.com.au/) Brisbane.
 
+![What all you need to know about the cutting method and processing meats](https://i.imgur.com/baYP1ZE.jpg)
+
 ## Different meat cuts and their cooking process
 * The highly exercised muscle like shank or shoulder area will develop much more with connective tissues and they have more coarse fibers. This means a moist cooking method is needed. When it is cooked with liquid, the collagen breaks down at 80 degrees Celsius into gelatin. This gelatin provides cooking liquid and adds moisture to the cooked meat and gives it a rich flavor. 
 * A lightly exercised muscle will contain less connective tissue and more fine muscle fibers will allow it to be prepared with a dry heat cooking method. For this type of meat, the best choice is Beef tenderloin.
